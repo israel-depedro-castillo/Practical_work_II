@@ -14,7 +14,12 @@
 -Using as a template the activity 3 done in class, i modified the styles.css file so i have a starting point to modify the page.
 -Using as a template the activity 3 done in class, i used as a template to modify the indext html of that activity, and copied it into the other html (its not final, is purpose is to have an starting point, thats because it saves time )
 
--
+- Modified the index.html with the information about the whole page
+- Modified some minor things of the css realted to ul for the contact page
+- Modified the contact.html page to include a form with the basic things
+
+-23/12/2025
+-Create fce.html file to put dedicated information about Fundamentals of hardware
 
 # Problems that i had
 

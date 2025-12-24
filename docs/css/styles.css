@@ -27,7 +27,7 @@ body {
 header {
   background: linear-gradient(90deg, #6b0f1a, #111827);
   color: white;
-  padding: 15px 0;
+  padding: 8px 20px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
@@ -35,7 +35,9 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 8px 20px;
 }
 
 .header-title {

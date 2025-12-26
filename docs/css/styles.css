@@ -21,6 +21,7 @@ body {
   width: 100%;
   margin: 0 auto;
   padding: 0 20px;
+   justify-content: center;
 }
 
 /* HEADER */
@@ -80,6 +81,8 @@ nav a:active {
   border-radius: 15px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.08);
   text-align: center;
+  justify-content: center;
+  
 }
 
 
@@ -198,6 +201,49 @@ form button:hover {
   background-color: #1d4ed8;
   transform: translateY(-2px);
 }
+/*TABLE*/
+
+ table {
+  display: inline-table;
+  margin: 20px auto;
+  border-collapse:collapse;
+  width: 80%;
+  border: 1px solid #d1d5db; /* borde exterior */
+}
+
+
+
+
+table th {
+  text-align: left;
+  font-weight: 600;
+   padding: 14px 25px;
+  border-bottom: 1px solid #e5e7eb;
+  background: linear-gradient(90deg, #6b0f1a, #111827);
+  color: white;
+}
+
+table td {
+   padding: 14px 25px;
+  text-align: left;
+  border-right: 1px solid #e5e7eb;
+  
+}
+
+table td:nth-child(2) {
+  text-align: center;
+}
+
+table img:hover {
+  transform: scale(1.15);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+
+table a:hover {
+  transform: scale(1.15);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+
 
 /* RESPONSIVE */
 @media (max-width: 768px) {
@@ -220,4 +266,6 @@ form button:hover {
     margin: 20px;
     padding: 25px;
   }
+
+  
 }

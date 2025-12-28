@@ -1,0 +1,233 @@
+commit 0cecb04f18459d03de47df9708a59da61d1f958d
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 23:14:47 2025 +0100
+
+    Final modifications to the DDD in the readme.file
+
+commit f3f4470a471ee451c1a0be604d4ae74afa55494e
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:53:30 2025 +0100
+
+    Minor changes to the nav because it didn´t travel to the right link
+
+commit 44d17b423a16477690ab85361e0056b422fec649
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:49:48 2025 +0100
+
+    Minor change to the spacing in the fce.html file
+
+commit fe5320c584cc2991c91eb739fb85c8fba5479689
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:48:14 2025 +0100
+
+    Change to the header name in topic.html
+
+commit b9a945c40eb2e97b73b7c872c710037a431bdeb8
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:47:47 2025 +0100
+
+    Rework of the about.html file, to include more text, and a change in the header name
+
+commit d9cfe1f8866dffe3797378c3f3924a4c86f4dd74
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:47:09 2025 +0100
+
+    Changing titles to h2, and changing the name in the header
+
+commit bb3a5f1e9d141aaf455e950121533e951ac87920
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:46:34 2025 +0100
+
+    Minor changes to the header name and menu items, in conctac.html
+
+commit ecf09adff4bf8f8250c46ec58f68916abf2d5fcb
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:45:49 2025 +0100
+
+    Minor changes to the only paragraph and the header name in index.html
+
+commit 9c2fb7f6782a0a3908c6211e49fbca2e515171f4
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:45:06 2025 +0100
+
+    finished fce.html file
+
+commit 610b7d9454df55bcc33acc4c15743ecca6dd7c3d
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:44:49 2025 +0100
+
+    Finished net.html file
+
+commit 6ce9235d636d6c7616f81a75e311133de6bc916f
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 22:44:30 2025 +0100
+
+    Adding photos that are used in net.html, and changes to the css
+
+commit 7d4737bca2ffc7a917308f16b011c4a80eae3b3b
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 02:44:21 2025 +0100
+
+    Updating the DDD and making a minor change in a name in net.hmtl
+
+commit 87f2a37f6fa301e2d387d29194ebece7b01e36d9
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 28 02:29:48 2025 +0100
+
+    Adding photos and the finalized topic.html
+
+commit 730331b9b653df5ef1a46411a732a267c54db87b
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sat Dec 27 21:12:48 2025 +0100
+
+    Adding my colleague mark photo for the net.hyml file
+
+commit f73eee223443549c8b3da66f8b2eed5f59a1373b
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sat Dec 27 01:13:00 2025 +0100
+
+    Minor changes to the table in net.html
+
+commit 5b96e10a26cb600963afc15a24d916fb941b8d07
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sat Dec 27 01:11:55 2025 +0100
+
+    Adding the remaining years to the degree.html
+
+commit ea32f6b42596c34abdb12814cfbc2ef001b014f8
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Fri Dec 26 22:16:51 2025 +0100
+
+    Adding changes to the about.html file, in the who i am part
+
+commit b8ab428314ac581796a37ac40463b943ca8e7209
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Fri Dec 26 22:15:55 2025 +0100
+
+    Added first year of the degree, and a link to fce.html
+
+commit 3143bbca97408ff11ac293197bc1ceeb4b452d4d
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Fri Dec 26 22:15:19 2025 +0100
+
+    Adding photo that is going to be used in about.html
+
+commit ca31d5c7cfeb55c163d7fd7ea413dcd20c931d2d
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Fri Dec 26 22:14:58 2025 +0100
+
+    Added changes to the table in css to make it less simplistic
+
+commit f8bdbca22131c25d69d672503e49a1dafbbd7a1d
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Fri Dec 26 22:14:28 2025 +0100
+
+    Adding cv to be used in the about.html
+
+commit cf82b73b49cb0549d9fc1a5636cc817159c1c619
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Thu Dec 25 23:31:27 2025 +0100
+
+    Preparing the table to the net.html, to include my colleagues
+
+commit f8ed04961e2140e15f7b4f93b49d39ce268644c8
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Wed Dec 24 20:42:10 2025 +0100
+
+    Addinh changes to the readme, to the about.html file to be complete, a photo that its used in the about.html file, and some changes to the css
+
+commit d966e2c4cc2a720d400cfeab707ec71b3b34164f
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Tue Dec 23 22:29:47 2025 +0100
+
+    Adding changes to the menu items in contact.html
+
+commit 8665d7cc9ee5ee14ff1ddd4d42d593e53ea84a07
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Tue Dec 23 22:12:58 2025 +0100
+
+    Updating the DDD of the readme
+
+commit 879f03b1698c0a022f938aa9dd380acb49cc1dc2
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Tue Dec 23 22:11:44 2025 +0100
+
+    Created fce.html to put dedicated info about Fundamentals of Computer Engineering
+
+commit a469f0f736a8c3d5e955d4ec2602a791abe220d1
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Mon Dec 22 23:46:28 2025 +0100
+
+    Adding the images that are going to be used in the footer
+
+commit 3a338198bc1c550934e7a371bf3c6e88f040c9fe
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Mon Dec 22 23:43:42 2025 +0100
+
+    Adding changes to the readme file and contact.html
+
+commit d57561d6a98f29fe2d76ba1e25ae78b68f871fb7
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Mon Dec 22 23:42:52 2025 +0100
+
+    Adding changes to the index.html and styles.css
+
+commit 7cbdbba5b291aa7f1e899dcbddb7c3d685a1b4e0
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Mon Dec 22 22:30:43 2025 +0100
+
+    Adding changes to the Readme
+
+commit 3c702e0abc63e81a650ff5c5070b6b6d6a9592ab
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Mon Dec 22 21:11:21 2025 +0100
+
+    Adding changes to the Readme
+
+commit 61beed0b8f84b0e92ad10cc658a5b3dd5a5f2ea9
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 21:53:34 2025 +0100
+
+    Adding topic.html to public
+
+commit ed6e3cc335ae1c82e45ed53f2c1efae64b5e67c0
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 21:52:58 2025 +0100
+
+    adding degree.html to public
+
+commit 53dfb69872a717dd7bde95be634b49eb039c4e5c
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 21:52:21 2025 +0100
+
+    Adding net.html to public
+
+commit 2b9582e5ddee16aab64f7e98cd6b8eb1216c06af
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 21:51:46 2025 +0100
+
+    Adding contact.html to public
+
+commit 44603e1a1b62f6d75badcfb72bd7a7775edd25ac
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 21:51:01 2025 +0100
+
+    Adding about.hmtl to public
+
+commit 3b73fffad30eb004cd309a372de91087928e0594
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 21:50:01 2025 +0100
+
+    Adding the css file and the index file
+
+commit 8f2873eeb1842ed27c177e981737f465a43a3117
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 19:53:53 2025 +0100
+
+    Adding changes to Readme and four folders
+
+commit e7125659bf6d5f148305eae4d536b4a4e92d6077
+Author: israel-depedro-castillo <9502329@alumnos.ufv.es>
+Date:   Sun Dec 21 19:29:31 2025 +0100
+
+    Initial commit
